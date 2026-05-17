@@ -10,7 +10,7 @@
 
 ## Selection of Featured Projects
 
-### [Python OpenCV Computer Vision Project](https://github.com/parkershamblin/opencv-OSRS1)
+### [RuneScape Computer Vision Project](https://github.com/parkershamblin/opencv-OSRS1)
 
 ![Parker Shamblin Python OpenCV computer vision project](images/parker-shamblin-opencv-computer-vision-project.gif)
 
