@@ -23,19 +23,3 @@ Computer vision project by Parker Shamblin using Python and OpenCV for object de
 ![Parker Shamblin Java Oracle banking web application project](images/parker-shamblin-java-oracle-banking-application.jpg)
 
 Full-stack Java web application by Parker Shamblin using Oracle, JSP/Servlets, JDBC, Tomcat, role-based access control, and approval-driven transaction processing.
-
----
-
-### [Checkers Game with Python/Pygame](https://github.com/parkershamblin/checkers-pygame)
-
-![Parker Shamblin Python Pygame checkers project](images/parker-shamblin-python-pygame-checkers-project.gif)
-
-Interactive checkers game built by Parker Shamblin with Python and Pygame, featuring a playable board, move handling, game-state logic, and a graphical user interface.
-
----
-
-## Links
-
-- [Portfolio](https://parkershamblin.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/parkershamblin)
-- [GitHub](https://github.com/parkershamblin)
