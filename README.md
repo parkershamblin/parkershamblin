@@ -14,7 +14,7 @@
 
 ![Parker Shamblin Python OpenCV computer vision project](images/parker-shamblin-opencv-computer-vision-project.gif)
 
-Computer vision project by Parker Shamblin using Python and OpenCV for object detection, image processing, visual recognition, and experimental automation workflows.
+Computer Vision Project by Parker Shamblin which automates object detection and gathering in the game Old School RuneScape.
 
 ---
 
