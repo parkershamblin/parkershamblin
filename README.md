@@ -25,7 +25,7 @@ Java web application learning project using JSP, Jakarta Servlets, JDBC, Oracle 
 
 ### OpenCV Computer Vision Workflow
 
-[![Parker Shamblin Python OpenCV computer vision project](images/parker-shamblin-opencv-computer-vision-project.jpg)](https://github.com/parkershamblin/opencv-OSRS1)
+[![Parker Shamblin Python OpenCV computer vision project](https://github.com/parkershamblin/opencv-OSRS1/blob/main/docs/img/opencv-OSRS-demo.gif)](https://github.com/parkershamblin/opencv-OSRS1)
 
 Python and OpenCV learning project built around Windows desktop-window capture, cascade-classifier detection, visible rectangle review, and documented constraints. I keep this project framed as a computer vision experiment with limitations and a measurement backlog.
 
