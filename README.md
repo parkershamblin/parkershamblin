@@ -14,15 +14,6 @@ Computer Science student at the University of South Florida focused on Java back
 
 ## Featured Projects
 
-### Retail Banking and Brokerage Platform
-
-[![Parker Shamblin Java Oracle banking web application project](images/parker-shamblin-java-oracle-banking-application.jpg)](https://github.com/parkershamblin/retail-banking-brokerage-platform)
-
-Java web application learning project using JSP, Jakarta Servlets, JDBC, Oracle 21c XE, and Apache Tomcat. The project documents public, customer, teller, and manager workflow areas, plus SQL scripts, stored procedures, views, screenshots, and feature-to-database notes.
-
-- Repository: [retail-banking-brokerage-platform](https://github.com/parkershamblin/retail-banking-brokerage-platform)
-- Case study: [Java Backend Project](https://parkershamblin.com/blog/parker-shamblin-java-backend-project)
-
 ### OpenCV Computer Vision Workflow
 
 [![Parker Shamblin Python OpenCV computer vision project](https://github.com/parkershamblin/opencv-OSRS1/blob/main/docs/img/opencv-OSRS-demo.gif)](https://github.com/parkershamblin/opencv-OSRS1)
@@ -32,6 +23,16 @@ Python and OpenCV learning project built around Windows desktop-window capture, 
 - Repository: [opencv-OSRS1](https://github.com/parkershamblin/opencv-OSRS1)
 - Case study: [OpenCV Computer Vision Project](https://parkershamblin.com/blog/parker-shamblin-opencv-computer-vision-project)
 - Work page: [OSRS Computer Vision Project](https://parkershamblin.com/work/OSRS-computer-vision-project)
+
+### Retail Banking and Brokerage Platform
+
+[![Parker Shamblin Java Oracle banking web application project](images/parker-shamblin-java-oracle-banking-application.jpg)](https://github.com/parkershamblin/retail-banking-brokerage-platform)
+
+Java web application learning project using JSP, Jakarta Servlets, JDBC, Oracle 21c XE, and Apache Tomcat. The project documents public, customer, teller, and manager workflow areas, plus SQL scripts, stored procedures, views, screenshots, and feature-to-database notes.
+
+- Repository: [retail-banking-brokerage-platform](https://github.com/parkershamblin/retail-banking-brokerage-platform)
+- Case study: [Java Backend Project](https://parkershamblin.com/blog/parker-shamblin-java-backend-project)
+
 
 ## Current Focus
 
