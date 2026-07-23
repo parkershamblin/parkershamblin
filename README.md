@@ -14,6 +14,13 @@ Computer Science student at the University of South Florida focused on Java back
 
 ## Featured Projects
 
+### [Rough Draft] Minecraft AI Agents
+
+https://github.com/user-attachments/assets/a3d88897-b511-492a-a945-c490e3a3feaa
+
+Teams of fully autonomous AI agents racing against each other to complete tasks in Minecraft.
+
+
 ### OpenCV Computer Vision Workflow
 
 [![Parker Shamblin Python OpenCV computer vision project](https://github.com/parkershamblin/opencv-OSRS1/blob/main/docs/img/opencv-OSRS-demo.gif)](https://github.com/parkershamblin/opencv-OSRS1)
