@@ -2,8 +2,6 @@
 
 Computer Science student at the University of South Florida focused on Java backend development, SQL database design, Python, OpenCV, GitHub projects, and clear technical documentation.
 
-- LinkedIn: [linkedin.com/in/parkershamblin](https://www.linkedin.com/in/parkershamblin/)
-
 ## Featured Projects
 
 ### [Rough Draft] Minecraft AI Agents
