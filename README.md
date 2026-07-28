@@ -6,7 +6,7 @@ Computer Science student at the University of South Florida focused on Java back
 
 ### [Work In Progress] Minecraft AI Agents
 
-https://github.com/user-attachments/assets/a3d88897-b511-492a-a945-c490e3a3feaa
+[https://github.com/user-attachments/assets/a3d88897-b511-492a-a945-c490e3a3feaa](https://github.com/parkershamblin/minecraft-ai-agents)
 
 Teams of fully autonomous AI agents racing against each other to complete tasks in Minecraft.
 
