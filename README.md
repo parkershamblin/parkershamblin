@@ -1,7 +1,3 @@
-# Parker Shamblin
-
-Computer Science student at the University of South Florida focused on Java backend development, SQL database design, Python, OpenCV, GitHub projects, and clear technical documentation.
-
 ## Featured Projects
 
 ### [Work In Progress] Minecraft AI Agents
