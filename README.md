@@ -1,6 +1,6 @@
 ## Featured Projects
 
-### [Work In Progress] Minecraft AI Agents
+### Minecraft AI Agents
 
 https://github.com/user-attachments/assets/a3d88897-b511-492a-a945-c490e3a3feaa
 
